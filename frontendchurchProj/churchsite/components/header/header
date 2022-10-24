@@ -1,0 +1,10 @@
+import { Stack } from "@mui/material";
+
+const Header = () =>{
+    return(
+        <Stack>
+            
+        </Stack>
+    )
+}
+export default Header;
